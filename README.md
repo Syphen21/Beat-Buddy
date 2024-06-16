@@ -2,6 +2,8 @@
 
 Beat-Buddy - Your Ultimate Music Experience
 
+<a href="https://beatbuddyweb.netlify.app/"><strong>➥ Live Demo</strong></a>
+
 Welcome to Beat-Buddy! Beat-Buddy is a music-board website that aims to revolutionize how you discover, share, and experience music. Inspired by the seamless user experience, Beat-Buddy brings together the best features of a music streaming service and a social platform, all powered by HTML, CSS, and JavaScript.
 
 Features
